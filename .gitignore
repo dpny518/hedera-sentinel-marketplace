@@ -38,3 +38,9 @@ coverage/
 .cache/
 tmp/
 temp/
+
+# Documentation that shouldn't be shared
+HACKATHON_SUBMISSION.md
+PITCH_DECK_OUTLINE.md
+QUICK_START.md
+hederahackathon.md
